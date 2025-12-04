@@ -1,0 +1,812 @@
+{
+    "cards": [
+        {
+            "id": "1",
+            "name": "Queen 1",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "2",
+            "name": "Mana 2",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "ore"
+        },
+        {
+            "id": "3",
+            "name": "Wood 3",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "wood"
+        },
+        {
+            "id": "4",
+            "name": "Engineer 4",
+            "type": "unit",
+            "effects": {
+                "description": "Stealth"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "5",
+            "name": "Mana 5",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "ore"
+        },
+        {
+            "id": "6",
+            "name": "Infiltrator 6",
+            "type": "spy",
+            "effects": {
+                "description": "Send false intel"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "7",
+            "name": "Assassin 7",
+            "type": "unit",
+            "effects": {
+                "description": "Sabotage base"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "8",
+            "name": "Infiltrator 8",
+            "type": "spy",
+            "effects": {
+                "description": "Betray unit"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "9",
+            "name": "Infantry 9",
+            "type": "unit",
+            "effects": {
+                "description": "Melee Attack"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "10",
+            "name": "Infiltrator 10",
+            "type": "spy",
+            "effects": {
+                "description": "Steal info"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "11",
+            "name": "Food 11",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "ore"
+        },
+        {
+            "id": "12",
+            "name": "Infiltrator 12",
+            "type": "spy",
+            "effects": {
+                "description": "Betray unit"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "13",
+            "name": "Mountain 13",
+            "type": "terrain",
+            "effects": {
+                "description": "Fog of War"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "14",
+            "name": "Barracks 14",
+            "type": "base",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "15",
+            "name": "Outpost 15",
+            "type": "base",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "16",
+            "name": "Dictator 16",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "17",
+            "name": "Rumor 17",
+            "type": "intel",
+            "effects": {
+                "description": "True: Victory point"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "18",
+            "name": "Artillery 18",
+            "type": "unit",
+            "effects": {
+                "description": "Heal allies"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "19",
+            "name": "Mana 19",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "ore"
+        },
+        {
+            "id": "20",
+            "name": "Map 20",
+            "type": "intel",
+            "effects": {
+                "description": "False: Trap"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "21",
+            "name": "Barracks 21",
+            "type": "base",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "22",
+            "name": "Double Agent 22",
+            "type": "spy",
+            "effects": {
+                "description": "Reveal terrain"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "23",
+            "name": "Archer 23",
+            "type": "unit",
+            "effects": {
+                "description": "Sabotage base"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "24",
+            "name": "Infiltrator 24",
+            "type": "spy",
+            "effects": {
+                "description": "Cannot be bought"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "25",
+            "name": "Cave 25",
+            "type": "terrain",
+            "effects": {
+                "description": "+Defense for Infantry"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "26",
+            "name": "Infiltrator 26",
+            "type": "spy",
+            "effects": {
+                "description": "Reveal terrain"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "27",
+            "name": "Barracks 27",
+            "type": "base",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "28",
+            "name": "Dictator 28",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "29",
+            "name": "Double Agent 29",
+            "type": "spy",
+            "effects": {
+                "description": "Reveal terrain"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "30",
+            "name": "Secret Plan 30",
+            "type": "intel",
+            "effects": {
+                "description": "True: Enemy position"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "31",
+            "name": "Ore 31",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "ore"
+        },
+        {
+            "id": "32",
+            "name": "Mole 32",
+            "type": "spy",
+            "effects": {
+                "description": "Send false intel"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "33",
+            "name": "Cave 33",
+            "type": "terrain",
+            "effects": {
+                "description": "-Speed for Cavalry"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "34",
+            "name": "King 34",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "35",
+            "name": "Castle 35",
+            "type": "base",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "36",
+            "name": "Informant 36",
+            "type": "spy",
+            "effects": {
+                "description": "Betray unit"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "37",
+            "name": "Hill 37",
+            "type": "terrain",
+            "effects": {
+                "description": "Fog of War"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "38",
+            "name": "Medic 38",
+            "type": "unit",
+            "effects": {
+                "description": "Ranged Attack"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "39",
+            "name": "Queen 39",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "40",
+            "name": "Cave 40",
+            "type": "terrain",
+            "effects": {
+                "description": "Ambush bonus"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "41",
+            "name": "River 41",
+            "type": "terrain",
+            "effects": {
+                "description": "+Resources in area"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "42",
+            "name": "Saboteur 42",
+            "type": "spy",
+            "effects": {
+                "description": "Cannot be bought"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "43",
+            "name": "General 43",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "44",
+            "name": "Artillery 44",
+            "type": "unit",
+            "effects": {
+                "description": "Heal allies"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "45",
+            "name": "Desert 45",
+            "type": "terrain",
+            "effects": {
+                "description": "-Speed for Cavalry"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "46",
+            "name": "Wood 46",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "wood"
+        },
+        {
+            "id": "47",
+            "name": "Infiltrator 47",
+            "type": "spy",
+            "effects": {
+                "description": "Cannot be bought"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "48",
+            "name": "General 48",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "49",
+            "name": "Wood 49",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "ore"
+        },
+        {
+            "id": "50",
+            "name": "Emperor 50",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "51",
+            "name": "Sniper 51",
+            "type": "unit",
+            "effects": {
+                "description": "Heal allies"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "52",
+            "name": "Queen 52",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "53",
+            "name": "Dictator 53",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "54",
+            "name": "Rumor 54",
+            "type": "intel",
+            "effects": {
+                "description": "True: Resource location"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "55",
+            "name": "Saboteur 55",
+            "type": "spy",
+            "effects": {
+                "description": "Reveal terrain"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "56",
+            "name": "Castle 56",
+            "type": "base",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "57",
+            "name": "Ore 57",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "wood"
+        },
+        {
+            "id": "58",
+            "name": "Food 58",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "gold"
+        },
+        {
+            "id": "59",
+            "name": "Queen 59",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "60",
+            "name": "Cave 60",
+            "type": "terrain",
+            "effects": {
+                "description": "+Resources in area"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "61",
+            "name": "Archer 61",
+            "type": "unit",
+            "effects": {
+                "description": "Heal allies"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "62",
+            "name": "Emperor 62",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "63",
+            "name": "Saboteur 63",
+            "type": "spy",
+            "effects": {
+                "description": "Steal info"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "64",
+            "name": "General 64",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "65",
+            "name": "Spy 65",
+            "type": "unit",
+            "effects": {
+                "description": "Stealth"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "66",
+            "name": "Wood 66",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "ore"
+        },
+        {
+            "id": "67",
+            "name": "Fortress 67",
+            "type": "base",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "68",
+            "name": "Engineer 68",
+            "type": "unit",
+            "effects": {
+                "description": "Stealth"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "69",
+            "name": "Infantry 69",
+            "type": "unit",
+            "effects": {
+                "description": "Melee Attack"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "70",
+            "name": "Saboteur 70",
+            "type": "spy",
+            "effects": {
+                "description": "Reveal terrain"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "71",
+            "name": "Informant 71",
+            "type": "spy",
+            "effects": {
+                "description": "Send false intel"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "72",
+            "name": "Barracks 72",
+            "type": "base",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "73",
+            "name": "Cavalry 73",
+            "type": "unit",
+            "effects": {
+                "description": "Stealth"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "74",
+            "name": "General 74",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "75",
+            "name": "Secret Plan 75",
+            "type": "intel",
+            "effects": {
+                "description": "False: Ally betrayal"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "76",
+            "name": "Food 76",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "gold"
+        },
+        {
+            "id": "77",
+            "name": "King 77",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "78",
+            "name": "Wood 78",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "wood"
+        },
+        {
+            "id": "79",
+            "name": "Cave 79",
+            "type": "terrain",
+            "effects": {
+                "description": "-Speed for Cavalry"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "80",
+            "name": "General 80",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "81",
+            "name": "Queen 81",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "82",
+            "name": "Gold 82",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "ore"
+        },
+        {
+            "id": "83",
+            "name": "Emperor 83",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "84",
+            "name": "Valley 84",
+            "type": "terrain",
+            "effects": {
+                "description": "Ambush bonus"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "85",
+            "name": "Fortress 85",
+            "type": "base",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "86",
+            "name": "Gold 86",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "gold"
+        },
+        {
+            "id": "87",
+            "name": "Swamp 87",
+            "type": "terrain",
+            "effects": {
+                "description": "Ambush bonus"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "88",
+            "name": "Map 88",
+            "type": "intel",
+            "effects": {
+                "description": "False: Trap"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "89",
+            "name": "Mountain 89",
+            "type": "terrain",
+            "effects": {
+                "description": "Ambush bonus"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "90",
+            "name": "False Info 90",
+            "type": "intel",
+            "effects": {
+                "description": "True: Enemy position"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "91",
+            "name": "Barracks 91",
+            "type": "base",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "92",
+            "name": "Mole 92",
+            "type": "spy",
+            "effects": {
+                "description": "Steal info"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "93",
+            "name": "Mana 93",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "gold"
+        },
+        {
+            "id": "94",
+            "name": "Mole 94",
+            "type": "spy",
+            "effects": {
+                "description": "Betray unit"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "95",
+            "name": "Queen 95",
+            "type": "leader",
+            "effects": null,
+            "resourceType": null
+        },
+        {
+            "id": "96",
+            "name": "Infiltrator 96",
+            "type": "spy",
+            "effects": {
+                "description": "Steal info"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "97",
+            "name": "Mana 97",
+            "type": "resource",
+            "effects": null,
+            "resourceType": "wood"
+        },
+        {
+            "id": "98",
+            "name": "Engineer 98",
+            "type": "unit",
+            "effects": {
+                "description": "Stealth"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "99",
+            "name": "Hill 99",
+            "type": "terrain",
+            "effects": {
+                "description": "+Resources in area"
+            },
+            "resourceType": null
+        },
+        {
+            "id": "100",
+            "name": "Sniper 100",
+            "type": "unit",
+            "effects": {
+                "description": "Sabotage base"
+            },
+            "resourceType": null
+        }
+    ]
+}
